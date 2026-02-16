@@ -1,0 +1,5 @@
+deepinv
+pywavelets
+torch
+lazylinop
+ptwt
