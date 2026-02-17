@@ -1,6 +1,6 @@
 # MAGIC-FB
 
-This repository contains the code for the paper "Multiresolution Adaptive Block-Coordinate Forward-Backward for Image Reconstruction". The paper introduces MAGIC-FB, an algorithm that exploits a multiresolution decomposition of the image to perform block-coordinate updates where block selection is adaptive, with the goal of matching the fastest known method in every degradation regime. The method is evaluated on deblurring problems with various levels of degradation.
+This repository contains the code for the paper ["Multiresolution Adaptive Block-Coordinate Forward-Backward for Image Reconstruction"](https://hal.science/hal-05514715). The paper introduces MAGIC-FB, an algorithm that exploits a multiresolution decomposition of the image to perform block-coordinate updates where block selection is adaptive, with the goal of matching the fastest known method in every degradation regime. The method is evaluated on deblurring problems with various levels of degradation.
 
 ## Algorithmic framework
 
